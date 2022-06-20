@@ -49,5 +49,5 @@ If you use this repository in your research, please cite the following paper:
 ```
 
 ## Credits
-[DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hgt), [ND](https://github.com/trokas/neural_decomposition)
+[DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hgt), [ND](https://github.com/trokas/neural_decomposition), [GNNExplainer](https://github.com/RexYing/gnn-model-explainer)
 
